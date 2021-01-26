@@ -1,0 +1,1 @@
+start cmd /C java -jar "D:\data\ripme.jar" -f "D:\data\links.txt" -d -ripsdirectory filer
